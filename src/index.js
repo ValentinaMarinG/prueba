@@ -1,3 +1,3 @@
-console.log("Hola");
+console.log("Hola sopy yop");
 suma = 1+1+100;
-console.log(suma);
+console.log(suma+" muchos");
